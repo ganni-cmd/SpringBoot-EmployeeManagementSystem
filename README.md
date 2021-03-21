@@ -1,3 +1,3 @@
  SpringBoot-EmployeeManagementSystem
  
-Angular+ SpringBoot project Employee Management System.
+Angular+ SpringBoot  Employee Management System project.
